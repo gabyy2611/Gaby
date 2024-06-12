@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Gabrielly Vitória 
 
@@ -6,8 +6,7 @@ Meu nome é Gabrielly Vitória
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📬
 
 gabyvictoria3880@gmail.com
 
-![descrição do GIF](link GIF do Tenor)
